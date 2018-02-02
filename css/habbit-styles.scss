@@ -1,8 +1,27 @@
 $habbit-blue: #141b39;
 $habbit-blue-hover: #1e255c;
+$twitter-color: #00aced;
+$facebook-color: #3b5998;
+$youtube-color: #FF0000;
+$instagram-color: #466998;
 
 .habbit-blue {
     background-color: $habbit-blue;
+}
+.bg-facebook-color {
+    background-color: $facebook-color;
+}
+
+.bg-twitter-color {
+    background-color: $twitter-color;
+}
+
+.bg-youtube-color {
+    background-color: $youtube-color;
+}
+
+.bg-instagram-color {
+    background-color: $instagram-color;
 }
 
 h3 {
